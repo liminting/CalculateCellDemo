@@ -15,6 +15,22 @@
 		5F7497551E5F594E00E1ABD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497531E5F594E00E1ABD5 /* LaunchScreen.storyboard */; };
 		5F7497601E5F594F00E1ABD5 /* CalculateCellDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F74975F1E5F594F00E1ABD5 /* CalculateCellDemoTests.m */; };
 		5F74976B1E5F594F00E1ABD5 /* CalculateCellDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F74976A1E5F594F00E1ABD5 /* CalculateCellDemoUITests.m */; };
+		5F74977B1E5F5A0300E1ABD5 /* MTCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F74977A1E5F5A0300E1ABD5 /* MTCell.m */; };
+		5F74977E1E5F5A7500E1ABD5 /* MTCellModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F74977D1E5F5A7500E1ABD5 /* MTCellModel.m */; };
+		5F7497811E5F5AA200E1ABD5 /* MTCellFrameModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F7497801E5F5AA200E1ABD5 /* MTCellFrameModel.m */; };
+		5F7497841E5F5C0100E1ABD5 /* statuses.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497831E5F5C0100E1ABD5 /* statuses.plist */; };
+		5F7497AA1E5F5ED300E1ABD5 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F74979E1E5F5ED300E1ABD5 /* 1.jpeg */; };
+		5F7497AB1E5F5ED300E1ABD5 /* 1516159990.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F74979F1E5F5ED300E1ABD5 /* 1516159990.jpeg */; };
+		5F7497AC1E5F5ED300E1ABD5 /* 238221586.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A01E5F5ED300E1ABD5 /* 238221586.jpeg */; };
+		5F7497AD1E5F5ED300E1ABD5 /* 424324.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A11E5F5ED300E1ABD5 /* 424324.jpeg */; };
+		5F7497AE1E5F5ED300E1ABD5 /* 50.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A21E5F5ED300E1ABD5 /* 50.jpeg */; };
+		5F7497AF1E5F5ED300E1ABD5 /* 7735164184.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A31E5F5ED300E1ABD5 /* 7735164184.jpeg */; };
+		5F7497B01E5F5ED300E1ABD5 /* 3461756566.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A51E5F5ED300E1ABD5 /* 3461756566.jpeg */; };
+		5F7497B11E5F5ED300E1ABD5 /* 4934348604.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A61E5F5ED300E1ABD5 /* 4934348604.jpeg */; };
+		5F7497B21E5F5ED300E1ABD5 /* 603564546.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A71E5F5ED300E1ABD5 /* 603564546.jpeg */; };
+		5F7497B31E5F5ED300E1ABD5 /* 6289891986.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A81E5F5ED300E1ABD5 /* 6289891986.jpeg */; };
+		5F7497B41E5F5ED300E1ABD5 /* 926680527.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5F7497A91E5F5ED300E1ABD5 /* 926680527.jpeg */; };
+		993F73A5DAE019817779F119 /* libPods-CalculateCellDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DDB8DA38E32A5CB5E0B45AB /* libPods-CalculateCellDemo.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +51,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0DDB8DA38E32A5CB5E0B45AB /* libPods-CalculateCellDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CalculateCellDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D782925C3F770F836ECC41A /* Pods-CalculateCellDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalculateCellDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CalculateCellDemo/Pods-CalculateCellDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		5F7497421E5F594E00E1ABD5 /* CalculateCellDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculateCellDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7497461E5F594E00E1ABD5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5F7497481E5F594E00E1ABD5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +69,26 @@
 		5F7497661E5F594F00E1ABD5 /* CalculateCellDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculateCellDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F74976A1E5F594F00E1ABD5 /* CalculateCellDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculateCellDemoUITests.m; sourceTree = "<group>"; };
 		5F74976C1E5F594F00E1ABD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F7497791E5F5A0300E1ABD5 /* MTCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTCell.h; sourceTree = "<group>"; };
+		5F74977A1E5F5A0300E1ABD5 /* MTCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTCell.m; sourceTree = "<group>"; };
+		5F74977C1E5F5A7500E1ABD5 /* MTCellModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTCellModel.h; sourceTree = "<group>"; };
+		5F74977D1E5F5A7500E1ABD5 /* MTCellModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTCellModel.m; sourceTree = "<group>"; };
+		5F74977F1E5F5AA200E1ABD5 /* MTCellFrameModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTCellFrameModel.h; sourceTree = "<group>"; };
+		5F7497801E5F5AA200E1ABD5 /* MTCellFrameModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTCellFrameModel.m; sourceTree = "<group>"; };
+		5F7497821E5F5AFB00E1ABD5 /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		5F7497831E5F5C0100E1ABD5 /* statuses.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = statuses.plist; sourceTree = "<group>"; };
+		5F74979E1E5F5ED300E1ABD5 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		5F74979F1E5F5ED300E1ABD5 /* 1516159990.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1516159990.jpeg; sourceTree = "<group>"; };
+		5F7497A01E5F5ED300E1ABD5 /* 238221586.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 238221586.jpeg; sourceTree = "<group>"; };
+		5F7497A11E5F5ED300E1ABD5 /* 424324.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 424324.jpeg; sourceTree = "<group>"; };
+		5F7497A21E5F5ED300E1ABD5 /* 50.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50.jpeg; sourceTree = "<group>"; };
+		5F7497A31E5F5ED300E1ABD5 /* 7735164184.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7735164184.jpeg; sourceTree = "<group>"; };
+		5F7497A51E5F5ED300E1ABD5 /* 3461756566.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3461756566.jpeg; sourceTree = "<group>"; };
+		5F7497A61E5F5ED300E1ABD5 /* 4934348604.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4934348604.jpeg; sourceTree = "<group>"; };
+		5F7497A71E5F5ED300E1ABD5 /* 603564546.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 603564546.jpeg; sourceTree = "<group>"; };
+		5F7497A81E5F5ED300E1ABD5 /* 6289891986.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6289891986.jpeg; sourceTree = "<group>"; };
+		5F7497A91E5F5ED300E1ABD5 /* 926680527.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 926680527.jpeg; sourceTree = "<group>"; };
+		8E408274D48516F4809CA3F4 /* Pods-CalculateCellDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalculateCellDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-CalculateCellDemo/Pods-CalculateCellDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				993F73A5DAE019817779F119 /* libPods-CalculateCellDemo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +117,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4AC5B24DDB259106888D8788 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0DDB8DA38E32A5CB5E0B45AB /* libPods-CalculateCellDemo.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5F7497391E5F594E00E1ABD5 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +132,8 @@
 				5F74975E1E5F594F00E1ABD5 /* CalculateCellDemoTests */,
 				5F7497691E5F594F00E1ABD5 /* CalculateCellDemoUITests */,
 				5F7497431E5F594E00E1ABD5 /* Products */,
+				C40A891B7FE66DC63FC81346 /* Pods */,
+				4AC5B24DDB259106888D8788 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,6 +150,7 @@
 		5F7497441E5F594E00E1ABD5 /* CalculateCellDemo */ = {
 			isa = PBXGroup;
 			children = (
+				5F7497781E5F59CC00E1ABD5 /* CalculateCell */,
 				5F7497481E5F594E00E1ABD5 /* AppDelegate.h */,
 				5F7497491E5F594E00E1ABD5 /* AppDelegate.m */,
 				5F74974B1E5F594E00E1ABD5 /* ViewController.h */,
@@ -117,7 +167,11 @@
 		5F7497451E5F594E00E1ABD5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5F74979D1E5F5ED300E1ABD5 /* icon */,
+				5F7497A41E5F5ED300E1ABD5 /* image */,
+				5F7497831E5F5C0100E1ABD5 /* statuses.plist */,
 				5F7497461E5F594E00E1ABD5 /* main.m */,
+				5F7497821E5F5AFB00E1ABD5 /* PrefixHeader.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -140,6 +194,53 @@
 			path = CalculateCellDemoUITests;
 			sourceTree = "<group>";
 		};
+		5F7497781E5F59CC00E1ABD5 /* CalculateCell */ = {
+			isa = PBXGroup;
+			children = (
+				5F7497791E5F5A0300E1ABD5 /* MTCell.h */,
+				5F74977A1E5F5A0300E1ABD5 /* MTCell.m */,
+				5F74977C1E5F5A7500E1ABD5 /* MTCellModel.h */,
+				5F74977D1E5F5A7500E1ABD5 /* MTCellModel.m */,
+				5F74977F1E5F5AA200E1ABD5 /* MTCellFrameModel.h */,
+				5F7497801E5F5AA200E1ABD5 /* MTCellFrameModel.m */,
+			);
+			path = CalculateCell;
+			sourceTree = "<group>";
+		};
+		5F74979D1E5F5ED300E1ABD5 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				5F74979E1E5F5ED300E1ABD5 /* 1.jpeg */,
+				5F74979F1E5F5ED300E1ABD5 /* 1516159990.jpeg */,
+				5F7497A01E5F5ED300E1ABD5 /* 238221586.jpeg */,
+				5F7497A11E5F5ED300E1ABD5 /* 424324.jpeg */,
+				5F7497A21E5F5ED300E1ABD5 /* 50.jpeg */,
+				5F7497A31E5F5ED300E1ABD5 /* 7735164184.jpeg */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		5F7497A41E5F5ED300E1ABD5 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				5F7497A51E5F5ED300E1ABD5 /* 3461756566.jpeg */,
+				5F7497A61E5F5ED300E1ABD5 /* 4934348604.jpeg */,
+				5F7497A71E5F5ED300E1ABD5 /* 603564546.jpeg */,
+				5F7497A81E5F5ED300E1ABD5 /* 6289891986.jpeg */,
+				5F7497A91E5F5ED300E1ABD5 /* 926680527.jpeg */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		C40A891B7FE66DC63FC81346 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5D782925C3F770F836ECC41A /* Pods-CalculateCellDemo.debug.xcconfig */,
+				8E408274D48516F4809CA3F4 /* Pods-CalculateCellDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +248,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F74976F1E5F594F00E1ABD5 /* Build configuration list for PBXNativeTarget "CalculateCellDemo" */;
 			buildPhases = (
+				455EEAC375CB2408BC29C88F /* [CP] Check Pods Manifest.lock */,
 				5F74973E1E5F594E00E1ABD5 /* Sources */,
 				5F74973F1E5F594E00E1ABD5 /* Frameworks */,
 				5F7497401E5F594E00E1ABD5 /* Resources */,
+				50DFDE519A2B013024ECDA76 /* [CP] Embed Pods Frameworks */,
+				4C461478E90123F8141D1297 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -246,9 +350,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F7497B41E5F5ED300E1ABD5 /* 926680527.jpeg in Resources */,
+				5F7497B11E5F5ED300E1ABD5 /* 4934348604.jpeg in Resources */,
+				5F7497B01E5F5ED300E1ABD5 /* 3461756566.jpeg in Resources */,
+				5F7497AA1E5F5ED300E1ABD5 /* 1.jpeg in Resources */,
+				5F7497AC1E5F5ED300E1ABD5 /* 238221586.jpeg in Resources */,
+				5F7497AD1E5F5ED300E1ABD5 /* 424324.jpeg in Resources */,
+				5F7497AB1E5F5ED300E1ABD5 /* 1516159990.jpeg in Resources */,
+				5F7497841E5F5C0100E1ABD5 /* statuses.plist in Resources */,
+				5F7497B31E5F5ED300E1ABD5 /* 6289891986.jpeg in Resources */,
 				5F7497551E5F594E00E1ABD5 /* LaunchScreen.storyboard in Resources */,
+				5F7497B21E5F5ED300E1ABD5 /* 603564546.jpeg in Resources */,
+				5F7497AE1E5F5ED300E1ABD5 /* 50.jpeg in Resources */,
 				5F7497521E5F594E00E1ABD5 /* Assets.xcassets in Resources */,
 				5F7497501E5F594E00E1ABD5 /* Main.storyboard in Resources */,
+				5F7497AF1E5F5ED300E1ABD5 /* 7735164184.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,13 +384,64 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		455EEAC375CB2408BC29C88F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		4C461478E90123F8141D1297 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CalculateCellDemo/Pods-CalculateCellDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		50DFDE519A2B013024ECDA76 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CalculateCellDemo/Pods-CalculateCellDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5F74973E1E5F594E00E1ABD5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F74977E1E5F5A7500E1ABD5 /* MTCellModel.m in Sources */,
+				5F74977B1E5F5A0300E1ABD5 /* MTCell.m in Sources */,
 				5F74974D1E5F594E00E1ABD5 /* ViewController.m in Sources */,
 				5F74974A1E5F594E00E1ABD5 /* AppDelegate.m in Sources */,
+				5F7497811E5F5AA200E1ABD5 /* MTCellFrameModel.m in Sources */,
 				5F7497471E5F594E00E1ABD5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,8 +589,11 @@
 		};
 		5F7497701E5F594F00E1ABD5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D782925C3F770F836ECC41A /* Pods-CalculateCellDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CalculateCellDemo/PrefixHeader.pch;
 				INFOPLIST_FILE = CalculateCellDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TL.CalculateCellDemo;
@@ -433,8 +603,11 @@
 		};
 		5F7497711E5F594F00E1ABD5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E408274D48516F4809CA3F4 /* Pods-CalculateCellDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CalculateCellDemo/PrefixHeader.pch;
 				INFOPLIST_FILE = CalculateCellDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TL.CalculateCellDemo;
@@ -507,6 +680,7 @@
 				5F7497711E5F594F00E1ABD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5F7497721E5F594F00E1ABD5 /* Build configuration list for PBXNativeTarget "CalculateCellDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +689,7 @@
 				5F7497741E5F594F00E1ABD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5F7497751E5F594F00E1ABD5 /* Build configuration list for PBXNativeTarget "CalculateCellDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +698,7 @@
 				5F7497771E5F594F00E1ABD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

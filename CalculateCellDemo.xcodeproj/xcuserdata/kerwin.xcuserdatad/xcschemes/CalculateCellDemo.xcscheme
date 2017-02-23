@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5F7497411E5F594E00E1ABD5"
+               BuildableName = "CalculateCellDemo.app"
+               BlueprintName = "CalculateCellDemo"
+               ReferencedContainer = "container:CalculateCellDemo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5F74975A1E5F594F00E1ABD5"
+               BuildableName = "CalculateCellDemoTests.xctest"
+               BlueprintName = "CalculateCellDemoTests"
+               ReferencedContainer = "container:CalculateCellDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5F7497651E5F594F00E1ABD5"
+               BuildableName = "CalculateCellDemoUITests.xctest"
+               BlueprintName = "CalculateCellDemoUITests"
+               ReferencedContainer = "container:CalculateCellDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5F7497411E5F594E00E1ABD5"
+            BuildableName = "CalculateCellDemo.app"
+            BlueprintName = "CalculateCellDemo"
+            ReferencedContainer = "container:CalculateCellDemo.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5F7497411E5F594E00E1ABD5"
+            BuildableName = "CalculateCellDemo.app"
+            BlueprintName = "CalculateCellDemo"
+            ReferencedContainer = "container:CalculateCellDemo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5F7497411E5F594E00E1ABD5"
+            BuildableName = "CalculateCellDemo.app"
+            BlueprintName = "CalculateCellDemo"
+            ReferencedContainer = "container:CalculateCellDemo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
